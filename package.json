@@ -21,5 +21,8 @@
   "dependencies": {
     "machine-code": "~1.0.0",
     "dot": "~1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
   }
 }
