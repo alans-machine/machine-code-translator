@@ -1,0 +1,21 @@
+{
+  "name": "machine-code-translator",
+  "version": "0.0.0",
+  "description": "A module to help create translators for machine code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alans-machine/machine-code-translator.git"
+  },
+  "keywords": [
+    "turing",
+    "machine"
+  ],
+  "author": "Daan van Berkel",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4d1ceb455e7591f389ac94844b77cc5f9b1a17e9"
+}
